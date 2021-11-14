@@ -6,7 +6,7 @@ Y1nky and me are going to try and get every single rare drop in Hypixel Skyblock
 
 ## Slayer
 #### Revenant
-- [x] Beheaded Horror 
+- [x] {Beheaded Horror](https://twitch.tv/y1nky)
 - [ ] Snake Rune
 - [ ] Scythe Blade
 - [ ] Smite VII
